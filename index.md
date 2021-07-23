@@ -1,14 +1,19 @@
 ## Pothole 1
 
-You can use the [editor on GitHub](https://github.com/nanovc/postal_code-2194-suburb-blairgowrie-street-morell-pothole-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 This is what the latest state of the pothole looks like: 
 
 ![Latest Photo](LatestPhoto.jpg)
 
+This is what the worst state of the pothole looked like:
+
+![Worst Photo](WorstPhoto.jpg)
+
 ### Markdown
+
+You can use the [editor on GitHub](https://github.com/nanovc/postal_code-2194-suburb-blairgowrie-street-morell-pothole-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
